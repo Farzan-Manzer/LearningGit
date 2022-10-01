@@ -1,2 +1,2 @@
 const names = ['Amazon', 'Google', 'Meta', 'Exatorial'];
-console.log(names);
+console.log('Company Name', names);
